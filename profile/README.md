@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 🔭 I’m currently working on ...
-- A fork of laminas-db so the component can continue to be used by the laminas/mezzio ecosystem.
+
+- php-db/phpdb and related packages
 - Axleus component library. Built on/for laminas/mezzio.
-- Expanding the number of useful packages that can be consumed by Mezzio framework.
+- A collection of mezzio packages under the webware /vendor space.
+- webware/command-bus
+- webware/mezzio-eventdispatcher
+- Custom Mezzio Skeleton tyrsson/mezzio-bleeding-edge (webware/mezzio-bleeding-edge)
 
 <img src="https://github-readme-stats.vercel.app/api?username=tyrsson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Activity">
 
